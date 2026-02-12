@@ -62,7 +62,7 @@ After the ticket has been escalated to the appropriate department, they will be 
 
 <img width="1200" height="594" alt="6" src="https://github.com/user-attachments/assets/1169eb3f-3e4f-42a6-a660-2a1b561ab56f" />
 
-The issue has been identifyed, the user has been updated along the way till completion.
+The issue has been identified, and the user has been updated along the way till completion.
 The ticket has been resolved!
 
   
