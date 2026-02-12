@@ -70,7 +70,4 @@ The ticket has been resolved!
   
   
   
-  
-  nulla pariatur.
-</p>
-<br />
+
