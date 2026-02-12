@@ -7,10 +7,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -40,15 +36,18 @@ First, the ticket is created my a staff member. They will see this page which is
 <p>
 <img width="1189" height="648" alt="02" src="https://github.com/user-attachments/assets/2fff6e5c-d06f-4de8-b1b7-0afe62d395ce" />
   
-"/>
 </p>
 <p>
-Now the ticket is open, and ready to be analyzed. The details of the user is displayed clearly for the first line of support to see. The ticket can now be marked at a level of urgency according to the details, and will be escalated accordingly.
+Now the ticket is open, and ready to be analyzed. The details of the inquiry is displayed clearly to be seen by the first line of support.
+The ticket can now be marked at a level of urgency according to the details, and will be escalated to the proper department.
 </p>
 <br />
 
-<img width="1184" height="669" alt="05" src="https://github.com/user-attachments/assets/c78680ef-1f44-4f17-85df-5625c42460e2" />
+-
 
+
+
+<img width="1184" height="669" alt="05" src="https://github.com/user-attachments/assets/c78680ef-1f44-4f17-85df-5625c42460e2" />
 
 
 </p>
@@ -58,10 +57,13 @@ After the ticket has been escalated to the appropriate department, they will be 
   
   
   
-
+-
 
 
 <img width="1200" height="594" alt="6" src="https://github.com/user-attachments/assets/1169eb3f-3e4f-42a6-a660-2a1b561ab56f" />
+
+The issue has been identifyed, the user has been updated along the way till completion.
+The ticket has been resolved!
 
   
 
