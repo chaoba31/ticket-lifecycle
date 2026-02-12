@@ -30,26 +30,45 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="1164" height="642" alt="01" src="https://github.com/user-attachments/assets/2efed7a8-e0ab-4ce2-9446-d1838d8dc3bc" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, the ticket is created my a staff member. They will see this page which is designed for end-users to interface with support. Once the user is finished with their inquiry, they can submit. This creates a new ticket.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1189" height="648" alt="02" src="https://github.com/user-attachments/assets/2fff6e5c-d06f-4de8-b1b7-0afe62d395ce" />
+  
+"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now the ticket is open, and ready to be analyzed. The details of the user is displayed clearly for the first line of support to see. The ticket can now be marked at a level of urgency according to the details, and will be escalated accordingly.
+</p>
+<br />
+
+<img width="1184" height="669" alt="05" src="https://github.com/user-attachments/assets/c78680ef-1f44-4f17-85df-5625c42460e2" />
+
+
+
+</p>
+<p>
+After the ticket has been escalated to the appropriate department, they will be able to determine what steps to take, according to the urgency level and description given to the inquiry by the first line of support. This support member will keep the end-user updated along the way as the ticket is being worked on.
+  
+  
+  
+  
+
+
+
+<img width="1200" height="594" alt="6" src="https://github.com/user-attachments/assets/1169eb3f-3e4f-42a6-a660-2a1b561ab56f" />
+
+  
+
+  
+  
+  
+  
+  nulla pariatur.
 </p>
 <br />
