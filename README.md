@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p><img width="1164" height="642" alt="01" src="https://github.com/user-attachments/assets/2efed7a8-e0ab-4ce2-9446-d1838d8dc3bc" />
 </p>
 <p>
-First, the ticket is created my a staff member. They will see this page which is designed for end-users to interface with support. Once the user is finished with their inquiry, they can submit. This creates a new ticket.
+First, the ticket is created by a staff member. They will see this page which is designed for end-users to interface with support. Once the user is finished with their inquiry, they can submit. This creates a new ticket.
 </p>
 <br />
 
